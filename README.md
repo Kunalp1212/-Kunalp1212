@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalp1212&label=Profile%20views&color=0e75b6&style=flat" alt="kunalp1212" /> </p>
 
-- 🌱 I’m currently learning **Machine learning and Artificial Intelligence**
+- 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
 
 - 📫 How to reach me **kunal555p@gmail.com**
 
